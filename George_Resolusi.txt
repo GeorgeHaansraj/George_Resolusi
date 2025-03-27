@@ -1,6 +1,6 @@
 George Resolusi
 - Satu
 - Dua
-- Tiga
 - Empat
 - Lima
+- Enam
